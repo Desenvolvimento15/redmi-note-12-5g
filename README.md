@@ -1,0 +1,1 @@
+# redmi-note-12-5g
