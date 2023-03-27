@@ -77,7 +77,3 @@
     }
     
   })(window, document);
-
-
-
-
