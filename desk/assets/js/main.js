@@ -43,8 +43,6 @@ window.addEventListener('scroll', function () {checkScrollBlocks(blocks, 0.5)}, 
 window.addEventListener('resize', function () {checkScrollBlocks(blocks, 0.5)}, false);
 
 
-
-
 $('.galeria').slick({
     slidesToShow: 1,
     slidesToScroll: 1,
