@@ -2794,7 +2794,6 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin-left: 2.083333rem;
   margin-top: -3rem;
   min-height: 1.75rem;
   width: 5.125rem;
@@ -2804,7 +2803,7 @@
   color: #191919;
   font-size: 0.833333rem;
   line-height: 0.958333rem;
-  text-align: left;
+  text-align: center;
   width: 6.916667rem;
 }
 .div1.fly-birds-page_93cffd918d .div14 .div36 {
