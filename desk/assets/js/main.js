@@ -42,10 +42,15 @@ var blocks = document.getElementsByClassName("section");
 window.addEventListener('scroll', function () {checkScrollBlocks(blocks, 0.5)}, false);
 window.addEventListener('resize', function () {checkScrollBlocks(blocks, 0.5)}, false);
 
-
 $('.galeria').slick({
+    arrows: false,
+    dots: true,
+    infinite: true,
+    speed: 500,
     slidesToShow: 1,
     slidesToScroll: 1,
+    adaptiveHeight: true,
     autoplay: true,
     autoplaySpeed: 2000,
-  });		
+});
+        
